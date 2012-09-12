@@ -1,0 +1,7 @@
+The code in these files is mainly from the Contiki project, any license 
+that applies to Contiki applies here also.
+
+http://www.contiki-os.org/
+
+The core is uIP from Contiki but significant chunks came from Atmel, 
+Cisco and others.
